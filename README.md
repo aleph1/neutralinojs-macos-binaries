@@ -3,9 +3,9 @@ Newer versions of [Neutralinojs](https://github.com/neutralinojs/neutralinojs) i
 
 These binaries were built as follows:
 
-- cloning the neutralinojs repo
-- compiling for x64 (% python3 scripts/bz.py --verbose --target_arch=x64)
-- compiling for arm64 (% python3 scripts/bz.py --verbose --target_arch=arm64)
+- cloned the neutralinojs repo (https://github.com/neutralinojs/neutralinojs)
+- compiled for x64 (% python3 scripts/bz.py --verbose --target_arch=x64)
+- compiled for arm64 (% python3 scripts/bz.py --verbose --target_arch=arm64)
 
 No changes have been made to the neutralinojs code, but using them for a release application comes with the inherent risks of downloading compiled binaries, and any security issues present in neutralinojs will also be found in these compiled versions.
 
