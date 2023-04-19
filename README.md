@@ -7,8 +7,8 @@ Newer versions of [Neutralinojs](https://github.com/neutralinojs/neutralinojs) i
 - compiled for x64 (% python3 scripts/bz.py --verbose --target_arch=x64)
 - compiled for arm64 (% python3 scripts/bz.py --verbose --target_arch=arm64)
 
-For versions 4.10.0+, no changes have been made to the neutralinojs code.
+For versions >= 4.10.0, no changes have been made to the neutralinojs code.
 
-For versions <=4.9.0 I had to copy the /lib/tray/tray.h file from a newer version of neutralinojs to get the code to compile, so I can’t guarantee the tray code will work as expected (I have not tested this).
+For versions <= 4.9.0, I had to copy the /lib/tray/tray.h file from a newer version of neutralinojs to get the code to compile, so I can’t guarantee the tray code will work as expected (I have not tested this).
 
 If you need other versions compiled just create an issue.
