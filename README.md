@@ -1,5 +1,5 @@
 # Compiled Neutralinojs Binaries for macOS 11
-Newer versions of [Neutralinojs](https://github.com/neutralinojs/neutralinojs) include binaries for macOS 12+. This repo includes compiled versions for macOS 11 that resolve crashes when trying to run the newer binaries see: https://github.com/neutralinojs/neutralinojs/issues/265.
+Newer versions of [Neutralinojs](https://github.com/neutralinojs/neutralinojs) include binaries for macOS 12+ only. This repo includes compiled versions for macOS 11 that resolve crashes when trying to run the newer binaries see: https://github.com/neutralinojs/neutralinojs/issues/265.
 
 **Note:** Using the binaries in this repo comes with the inherent risk of downloading compiled binaries, and any security issues present in neutralinojs will also be found in these compiled versions. These binaries were built as follows:
 
