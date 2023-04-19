@@ -9,4 +9,4 @@ These binaries were built as follows:
 
 No changes have been made to the neutralinojs code, but using them for a release application comes with the inherent risks of downloading compiled binaries, and any security issues present in neutralinojs will also be found in these compiled versions.
 
-If you need other versions compiled just create an issue.
+Vesions <4.10.0 have an issue with tray.h compiling for macOS 11. It might be possible to get these compiling, but I would likely have to backport changes for tray.h. If possible, upgrade to v4.10.0 or greater.
